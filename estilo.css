@@ -62,3 +62,11 @@ body {
   background: #8D6612;
   color: #8D6612;
 }
+
+.tela-acertou {
+  background: #D1A562;
+}
+
+.tela-errou {
+  background: #D1A562;
+}
