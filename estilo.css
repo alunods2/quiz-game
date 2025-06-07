@@ -65,8 +65,23 @@ body {
 
 .tela-acertou {
   background: #D1A562;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
 }
 
 .tela-errou {
   background: #D1A562;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+}
+
+.correto {
+  width: 80%;
+  
+}
+
+.errado {
+  width: 80%;
 }
