@@ -22,6 +22,11 @@ body {
   padding: 5px 10px 5px 10px;
 }
 
+.iniciar:active {
+  background: rgba(178, 138, 98, 1);
+  color: black;
+}
+
 .tela-pergunta {
   width: 100%;
   height: 100vh;
@@ -104,4 +109,9 @@ body {
   margin-top: 35px;
   border: 3px solid #000000;
   padding: 5px 10px 5px 10px;
+}
+
+.voltar:active {
+  background: rgba(178, 138, 98, 1);
+  color: black;
 }
