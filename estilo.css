@@ -10,14 +10,14 @@ body {
 }
 
 .logo {
-  width: 60%;
+  width: 80%;
 }
 
 .iniciar {
   background: saddlebrown;
   font-size: 40px;
   color: #FFFFFF;
-  margin-top: 150px;
+  margin-top: 140px;
   border: 3px solid #000000;
   padding: 5px 10px 5px 10px;
 }
@@ -95,4 +95,13 @@ body {
 
 .final {
   width: 99%;
+}
+
+.voltar {
+  background: saddlebrown;
+  font-size: 40px;
+  color: #FFFFFF;
+  margin-top: 35px;
+  border: 3px solid #000000;
+  padding: 5px 10px 5px 10px;
 }

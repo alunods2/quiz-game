@@ -50,6 +50,7 @@ botao0 = document.querySelector(".opcao0");
 botao1 = document.querySelector(".opcao1");
 botao2 = document.querySelector(".opcao2");
 botao3 = document.querySelector(".opcao3");
+voltar = document.querySelector(".voltar");
 
 perguntaAtual = 0
 
@@ -69,7 +70,7 @@ telaErrou.addEventListener("click", () => {
   perguntaAtual = 0
 })
 
-telaFinal.addEventListener("click", () => {
+voltar.addEventListener("click", () => {
   telaFinal.style.display = "none"
   telaInicial.style.display = "block"
   perguntaAtual = 0
